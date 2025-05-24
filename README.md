@@ -1,4 +1,4 @@
-# ⚡ National Electricity Demand Forecasting
+# ⚡ National Electricity Demand Forecasting——Case study for Panama
 
 📊 **A Comparative Study of Traditional and Deep Learning Models**
 
@@ -64,8 +64,3 @@ This project aims to forecast national electricity demand using three distinct m
 - *Department of Business, Macau University of Science and Technology*
 
 ---
-
-## 📚 References
-
-- Dataset: [Kaggle Electricity Load Forecasting](https://www.kaggle.com/datasets/saurabhshahane/electricity-load-forecasting/data)
-- Key Papers: Winters (1960), Box et al. (1976), Hochreiter & Schmidhuber (1997)
