@@ -22,7 +22,7 @@ This project aims to forecast national electricity demand using three distinct m
 ---
 
 ## 📊 DATA's Pattern(EDA)
-![Net_demand](Forecasting/Visualization/Net_demand.png)
+![Net_demand](Visualization/Net_demand.png)
 
 
 ---
