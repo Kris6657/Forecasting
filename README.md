@@ -23,6 +23,9 @@ This project aims to forecast national electricity demand using three distinct m
 
 ## 📊 DATA's Pattern(EDA)
 ![Net_demand](Visualization/Net_demand.png)
+![Seasonal Patter](Visualization/Seasonal_pattern_in_first_3_years.png)
+![Sactter Plot](Visualization/Scatter_plot_Tem_and_Demand.png)
+![ACF test](Visualization/ACF_test.png)
 
 
 ---
